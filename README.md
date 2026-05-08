@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hey, I'm Talhe
 
-<!--
-**Talhe-Ahrari/Talhe-Ahrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ AI Agent Builder
+🧠 Prompt Engineer
+💻 Vibe Coder
 
-Here are some ideas to get you started:
+I build custom AI agents, automation systems, and AI-powered tools using modern models and workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focused on:
+• AI Automation
+• Multi-Agent Systems
+• Prompt Engineering
+• AI + Python
+• Intelligent Workflows
+
+"AI is my tool. Impact is my goal."
